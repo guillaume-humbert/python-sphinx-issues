@@ -1,0 +1,5 @@
+python-sphinx-issues (1.2.0-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #932141)
+
+ -- Ondřej Nový <onovy@debian.org>  Mon, 15 Jul 2019 21:59:53 +0200
