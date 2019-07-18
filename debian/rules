@@ -1,8 +1,6 @@
 #!/usr/bin/make -f
 
 export PYBUILD_NAME=sphinx-issues
-export PYBUILD_BEFORE_TEST=cp test_sphinx_issues.py {build_dir}
-export PYBUILD_AFTER_TEST=rm {build_dir}/test_sphinx_issues.py
 
 %:
 	dh $@ --with python3 --buildsystem=pybuild
