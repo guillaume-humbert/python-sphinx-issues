@@ -1,6 +1,7 @@
 python-sphinx-issues (1.2.0-2) UNRELEASED; urgency=medium
 
   * Use pybuild.testfiles instead of PYBUILD_{BEFORE,AFTER}_TEST
+  * Bump Standards-Version to 4.4.1.
 
  -- Ondřej Nový <onovy@debian.org>  Thu, 18 Jul 2019 15:26:44 +0200
 
