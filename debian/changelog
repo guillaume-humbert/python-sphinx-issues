@@ -1,12 +1,5 @@
-python-sphinx-issues (1.2.0-2) UNRELEASED; urgency=medium
+python-sphinx-issues (1.2.0-1ubuntu1) bionic; urgency=medium
 
-  * Use pybuild.testfiles instead of PYBUILD_{BEFORE,AFTER}_TEST
-  * Bump Standards-Version to 4.4.1.
+  * Initial release.
 
- -- Ondřej Nový <onovy@debian.org>  Thu, 18 Jul 2019 15:26:44 +0200
-
-python-sphinx-issues (1.2.0-1) unstable; urgency=medium
-
-  * Initial release. (Closes: #932141)
-
- -- Ondřej Nový <onovy@debian.org>  Mon, 15 Jul 2019 21:59:53 +0200
+ -- Guillaume J Humbert <guillaume.j.humbert@pm.me>  Sun, 27 Oct 2019 16:38:11 +0800

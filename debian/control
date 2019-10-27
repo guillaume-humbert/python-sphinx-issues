@@ -3,13 +3,13 @@ Section: python
 Priority: optional
 Maintainer: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
 Uploaders: Ondřej Nový <onovy@debian.org>,
-Build-Depends: debhelper-compat (= 12),
+Build-Depends: debhelper (>= 10~),
                dh-python,
                python3-all,
                python3-pytest,
                python3-setuptools,
                python3-sphinx,
-Standards-Version: 4.4.1
+Standards-Version: 4.1.4
 Vcs-Browser: https://salsa.debian.org/python-team/modules/python-sphinx-issues
 Vcs-Git: https://salsa.debian.org/python-team/modules/python-sphinx-issues.git
 Homepage: https://github.com/sloria/sphinx-issues
